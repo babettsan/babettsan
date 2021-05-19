@@ -8,7 +8,7 @@ Full-Stack Web Developer 💻 and a entrepreneur 🚀.
 📞 Phone: +54 2645257764
 
 Knowledge:
-
+<span class="iconify" data-icon="logos:html-5" data-inline="false"></span>
 -javascript 
 -TypeScript 
 -html5 
