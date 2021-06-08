@@ -1,6 +1,6 @@
 
 Hello! I'am Barbara Sanchez 👋
-Full-Stack Web Developer 💻 and a entrepreneur 🚀.
+Full-Stack Web Developer 💻 and an entrepreneur 🚀.
 
 🇦🇷 Argentina
 
