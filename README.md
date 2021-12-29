@@ -24,6 +24,7 @@
   <img src="https://api.iconify.design/logos:sequelize.svg" alt="sequelize" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:angular-icon.svg" alt="angular" height="40" width="40"/>
   <img src="https://api.iconify.design/logos:firebase.svg" alt="angular" height="40" width="40"/> 
+  <img src="https://api.iconify.design/logos:bootstrap.svg" alt="angular" height="40" width="40"/> 
  
 <p>
 
