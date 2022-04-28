@@ -37,6 +37,17 @@ Gracias por tu visita!
   <img src="https://api.iconify.design/logos:solidity.svg" alt="angular" height="40" width="40"/> 
 </div>
 
+----
 
+<br>
+
+## Github Stats
+<br>
+
+![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=babettsan&show_icons=true&theme=dark)
+
+<br>
+
+----
 
  
