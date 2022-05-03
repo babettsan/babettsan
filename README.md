@@ -89,6 +89,7 @@ Gracias por tu visita!
 </td></tr></table>  
 
 <br/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11157881069&cover_image=true&theme=default&bar_color=fa0025&bar_color_cover=true" /></div>  
 
 ----
  
