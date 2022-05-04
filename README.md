@@ -1,6 +1,6 @@
 
 ## Hello! I'm Barbara Sanchez 👋
-> Full-Stack Web Developer 💻 and an entrepreneur 🚀. 
+> Full-Stack Web Developer 💻 and entrepreneur 🚀. 
 
 Gracias por tu visita!
 <br>
