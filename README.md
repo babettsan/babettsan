@@ -22,8 +22,6 @@ Gracias por tu visita!
 <br>
 <a href="https://www.linkedin.com/in/barbara-n-s-624b09116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
-----
-
 <br>
 
 ## Github Stats
