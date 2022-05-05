@@ -3,9 +3,7 @@
 > Full-Stack Web Developer 💻 and entrepreneur 🚀. 
 
 <br>
-<div style='display:flex; justify-content: center; align-items:center;'> 
 ![Visitor Count](https://profile-counter.glitch.me/babettsan/count.svg)
-</div>
 
 🇦🇷 Argentina
 
