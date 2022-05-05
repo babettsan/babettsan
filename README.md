@@ -2,9 +2,10 @@
 ## Hello! I'm Barbara Sanchez 👋
 > Full-Stack Web Developer 💻 and entrepreneur 🚀. 
 
-Gracias por tu visita!
 <br>
+<div style='display:flex; justify-content: center; align-items:center;'> 
 ![Visitor Count](https://profile-counter.glitch.me/babettsan/count.svg)
+</div>
 
 🇦🇷 Argentina
 
