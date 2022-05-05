@@ -1,7 +1,8 @@
 
 ## Hello! I'm Barbara Sanchez 👋
 > Full-Stack Web Developer 💻 and entrepreneur 🚀. 
-
+<br>
+Thanks for your visit!
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/babettsan/count.svg)
 
