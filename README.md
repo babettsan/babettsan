@@ -28,7 +28,7 @@ Whats up? What are you doing here?!
 <br>
 
 ## Github Stats  
-<div style='display:flex; flex-direction:row; justify-content:between;' >
+<div style='display:flex; flex-direction:row; justify-content:between; align-items:center;' >
   <img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact" />
 </div>  
