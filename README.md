@@ -23,7 +23,6 @@ Whats up? What are you doing here?!
 <br>
 <a href="https://www.linkedin.com/in/barbara-n-s-624b09116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr>
-<br>
 
 ## Github Stats  
 <div style='display:flex; flex-direction:row;' >
@@ -34,8 +33,6 @@ Whats up? What are you doing here?!
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
