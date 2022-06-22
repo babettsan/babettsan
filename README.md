@@ -25,10 +25,12 @@ Whats up? What are you doing here?!
 <hr>
 <br>
 
-## Github Stats
 <br>
 
-![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=babettsan&show_icons=true&theme=dark)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+  
 
 <br>
 
@@ -36,7 +38,7 @@ Whats up? What are you doing here?!
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=babettsan&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact)]
 
 <br>
 <br>
