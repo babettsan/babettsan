@@ -38,7 +38,7 @@ Whats up? What are you doing here?!
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact)
 
 <br>
 <br>
