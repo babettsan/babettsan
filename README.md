@@ -25,8 +25,6 @@ Whats up? What are you doing here?!
 <hr>
 <br>
 
-<br>
-
 ## Github Stats  
 <div style='display:flex; flex-direction:row;' >
   <img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true" />
