@@ -28,22 +28,10 @@ Whats up? What are you doing here?!
 <br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-  
-
-<br>
-
-----
-
-<br>
-
+<div style='display:flex; flex-direction:row; justify-content:between;' >
+  <img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true" align="center" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact)
-
-<br>
-<br>
-
-----
+</div>  
 
 
 ## My Skill Set  
