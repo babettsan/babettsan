@@ -77,8 +77,4 @@ Whats up? What are you doing here?!
 
 ----
  
-Credits to the big genius:
-<i class="ri-rocket-fill"></i>
-<a href="https://github.com/Envoy-VC">
-  Envoy-VC
-</a>
+Credits to the big genius
