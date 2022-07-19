@@ -27,7 +27,7 @@ Whats up? What are you doing here?!
 ## Github Stats  
 <div style='display:flex; flex-direction:row;' >
   <img src="https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&count_private=true&hide_border=true&theme=great-gatsby" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&layout=compact&theme=great-gatsby&hide_border=true" />
 </div>  
 
 
