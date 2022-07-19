@@ -9,10 +9,6 @@ Whats up? What are you doing here?!
 
 🇦🇷 Argentina
 
-📫 Contact: - babettsan@gmail.com
-
-📞 Phone: +54 2645257764
-
 🤝   Connect with me.
 <hr>
 
