@@ -1,4 +1,8 @@
 <!--   my-icons -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px;" />
+</div> 
+</br>
 <p align="center">
     <a href="https://github.com/babettsan/babettsan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/babettsan/babettsan/graphs/contributors"><img src="https://img.shields.io/github/contributors/babettsan/babettsan?color=blue"></a>
@@ -8,7 +12,7 @@
 </p>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bárbara+Sánchez;Full-Stack+Software+Developer+💻+and+entrepreneur+🚀.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+am+Bárbara+Sánchez,+Software+Developer+💻🚀🦄🗽♾️.)](https://git.io/typing-svg)
 
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
