@@ -32,7 +32,8 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![babettsan's github stats](https://github-readme-stats.vercel.app/api?username=babettsan&show_icons=true&theme=radical&include_all_commits=true) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ |
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=babettsan"></img>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=babettsan&theme=dark&show_icons=true)
