@@ -66,4 +66,4 @@ Coding for a living from May 1, 2021
 
 ----
  
-(Ctrl + V) + (Google + Internet) + (Time) = A Big Genius
+(Ctrl + V) + (Google + Time) = A Big Genius
