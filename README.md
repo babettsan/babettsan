@@ -29,22 +29,17 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![babettsan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=babettsan&theme=github-compact)](https://github.com/babettsan/github-readme-activity-graph)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- |
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=babettsan"></img>
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&langs_count=8&theme=dark&show_icons=true)](https://github.com/babettsan/github-readme-stats)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babettsan&theme=dark&show_icons=true"></img>
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=babettsan&theme=dark&show_icons=true)
 
 
 ### :trophy: Github Profile Trophy
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babettsan" alt="babettsan" /></a>
-</p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=babettsan&theme=onedark)](https://github.com/babettsan/github-profile-trophy)
 
 <br>
 
