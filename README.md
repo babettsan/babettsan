@@ -30,7 +30,7 @@
 ### 📈 GitHub Activity Graph:
 [![babettsan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=babettsan&theme=github-compact)](https://github.com/babettsan/github-readme-activity-graph)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&langs_count=8&theme=dark&show_icons=true)](https://github.com/babettsan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babettsan&langs_count=10&theme=dark&show_icons=true)](https://github.com/babettsan/github-readme-stats)
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=babettsan&theme=dark&show_icons=true"></img>
 <br>
