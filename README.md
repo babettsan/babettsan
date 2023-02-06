@@ -29,14 +29,6 @@
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=babettsan&theme=dark&show_icons=true)
 </br>
-![Languages](https://github.com/babettsan/metrics/blob/examples/metrics.plugin.languages.details.svg)
-</br>
-
-### 🏆 Github Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=babettsan&theme=onedark)](https://github.com/babettsan/github-profile-trophy)
-
-</br>
 
 ### 🫰 Profile Views
 
@@ -62,5 +54,4 @@ Coding for a living from May 1, 2021
 
 (Ctrl + V) * (Google + Time) = A Big Genius
 
-
-![Metrics](https://metrics.lecoq.io/babettsan?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&habits=1&achievements=1&code=1&traffic=1&fortune=1&stock=1&splatoon=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=50&languages.threshold=1%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&fortune=false&splatoon=false&splatoon.sections=player%2C%20versus%2C%20salmon-run&splatoon.versus.limit=1&splatoon.salmon.limit=1&splatoon.statink=false&splatoon.source=splatnet&stock=false&stock.symbol=TSLA&stock.duration=1d&stock.interval=5m&config.timezone=America%2FBuenos_Aires)
+![Metrics](https://metrics.lecoq.io/babettsan?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&habits=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=50&languages.threshold=1%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=America%2FBuenos_Aires)
