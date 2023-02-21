@@ -45,17 +45,17 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 50
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 50
-          plugin_languages_other: yes
+          plugin_languages_other: no
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
