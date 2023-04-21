@@ -2,7 +2,7 @@ name: Indepth analysis
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.languages.indepth.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  token: ${{ secrets.ACCESS_TOKEN  }}
   base: ""
   plugin_languages: yes
   plugin_languages_ignored: >-
