@@ -21,4 +21,4 @@ jobs:
       run: |
         git add .
         git commit -m "Daily commit $(date +'%Y-%m-%d')"
-        git push
+        git push https://${{ secrets.ACCESS_TOKEN }}@github.com/babettsan/babettsan.git
