@@ -1,8 +1,3 @@
-<!--   my-icons -->
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 500px;" />
-</div> 
-</br>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+am+Bárbara+Sánchez,+Software+Developer+💻🚀🦄🗽♾️.">
