@@ -22,14 +22,6 @@
 <!--   grid-snake -->
 ![](https://github.com/babettsan/babettsan/blob/output/github-contribution-grid-snake.svg)
 
-
-### 🫰 Profile Views. Whats up? What are you doing here?
-</br>
-</br>
-
-![Visitor Count](https://profile-counter.glitch.me/babettsan/count.svg)
-
-![](https://count.getloli.com/get/@babettsan.github.readme) <br><br>
 Coding for a living from May 1, 2021. 🇦🇷 Argentina
 
 </br>
