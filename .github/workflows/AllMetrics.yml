@@ -1,30 +1,25 @@
 name: Metrics
 on:
-  # Schedule updates (each day)
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS }}
-
-          # Options
-          user: babettsan
+          plugin_stock_duration: 1d
+          plugin_stock_interval: 5m
+          plugin_stock_symbol: TSLA
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -63,3 +58,4 @@ jobs:
           plugin_stock_duration: 1d
           plugin_stock_interval: 5m
           plugin_stock_symbol: TSLA
+
