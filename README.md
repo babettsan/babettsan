@@ -12,5 +12,5 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11157881069&cover_image=true&theme=default&bar_color=fa0025&bar_color_cover=true" /></div>  
 
 ## Coding for a living from May 1, 2021. 🇦🇷 Argentina
-</br>
+
 ### 🤝 (Ctrl + V) * (Google + Time) = A Big Genius
