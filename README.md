@@ -58,9 +58,4 @@ Most of my work sits around web apps, product systems, internal tools, and exper
 
 I like simple systems, honest iteration, and code that survives contact with real users.
 
----
-
-<p align="center">
-  <a href="https://github.com/babettsan">GitHub</a>
-</p>
 
